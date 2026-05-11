@@ -1,3 +1,6 @@
+Membros: Marcos Gustavo Lara
+Lucas Nishimura Sato
+
 # Projeto Fullstack - Consulta Tabela Fipe
 
 Projeto desenvolvido para a disciplina **Programação Web Fullstack**, com foco na criação da camada **Frontend** usando **React.js**, **AJAX** e consumo de uma **API JSON aberta**.
