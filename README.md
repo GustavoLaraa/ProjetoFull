@@ -1,4 +1,4 @@
-Membros: Marcos Gustavo Lara
+Membros: Marcos Gustavo Lara,
 Lucas Nishimura Sato
 
 # Projeto Fullstack - Consulta Tabela Fipe
